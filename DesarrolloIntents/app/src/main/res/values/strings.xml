@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DesarrolloIntents</string>
+
+    <string-array name="array">
+
+        <item>"Escoja la edad de su niñ@"</item>
+        <item>"0 dias a 1 mes 0 dias"</item>
+        <item>"1 mes 1 día a 3 meses y 0 días"</item>
+        <item>"3 meses y 1 día a 6 meses y 0 días"</item>
+        <item>"6 meses y 1 día a 9 meses y 0 días"</item>
+        <item>"9 meses y 1 día a 12 meses y 0 días"</item>
+        <item>"12 meses y 1 día a 18 meses y 0 días"</item>
+        <item>"18 meses y 1 día a 24 meses y 0 días"</item>
+
+        <item>"2 a 3 años"</item>
+        <item>"3 a 4 años"</item>
+        <item>"4 a 5 años"</item>
+        <item>"5 a 6 años"</item>
+        <item>"6 a 7 años"</item>
+
+    </string-array>
+</resources>
